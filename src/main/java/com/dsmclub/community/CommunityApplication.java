@@ -16,7 +16,7 @@ import java.util.stream.IntStream;
 @SpringBootApplication
 public class CommunityApplication {
     public static void main(String[] args) {
-        SpringApplication.run(BootWebApplication.class, args);
+        SpringApplication.run(CommunityApplication.class, args);
     }
 
     @Bean
