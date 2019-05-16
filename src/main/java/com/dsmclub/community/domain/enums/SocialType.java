@@ -3,7 +3,7 @@ package com.dsmclub.community.domain.enums;
 public enum SocialType {
     FACEBOOK("facebook"),
     GOOGLE("google"),
-    KAKAO("kakao")
+    KAKAO("kakao");
 
     private final String ROLE_PREFIX = "ROLE_";
     private String name;
